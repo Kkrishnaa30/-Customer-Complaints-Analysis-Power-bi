@@ -1,7 +1,3 @@
-Here's a more detailed version of your **README.md** file with **expanded descriptions**, while excluding the "How to Run" and "Project Structure" sections:  
-
----
-
 # 📌 Caltech101-Object_Detection  
 
 ## 🚀 Project Overview  
